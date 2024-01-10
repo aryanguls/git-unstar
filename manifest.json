@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Git Unstar",
+    "description": "Unstar all starred repos in one click",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "static/logo.png"
+    }
+  }
