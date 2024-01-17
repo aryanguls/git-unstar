@@ -1,4 +1,3 @@
-// token -> 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
 // token access to repo access is needed for this to work 
 
 const { Octokit } = require("@octokit/core");
